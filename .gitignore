@@ -1,0 +1,16 @@
+# Raw source data
+/data/*.csv
+/data/*.xlsx
+/data/*.xls
+
+# Power BI files may contain imported source data
+*.pbix
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# Temporary/system files
+Thumbs.db
+.DS_Store
+~$*
